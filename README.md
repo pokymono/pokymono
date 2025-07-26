@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=blur&color=gradient&height=300&section=header&text=Rishit%20Shivam&fontSize=90&animation=fadeIn)
 
 ## About Me  
-• Currently working on **OCS Website ACM-VIT(#)**  
+• Currently working on **UniPool ACM-VIT(#)**  
 • Learning **Golang**  
 • Expertise in **AI/ML, Automation and Web Dev**  
 • Contact: **rishitshivam@gmail.com**  
